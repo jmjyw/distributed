@@ -1,2 +1,2 @@
 # distributed
-分布式协同
+同步组件
